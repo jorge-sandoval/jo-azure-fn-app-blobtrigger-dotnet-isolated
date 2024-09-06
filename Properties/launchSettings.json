@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "jo_fnapp_demo": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7291",
+      "launchBrowser": false
+    }
+  }
+}
